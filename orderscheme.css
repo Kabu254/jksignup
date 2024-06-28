@@ -1,0 +1,127 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+:root{
+    --poppins: 'Poppins', sans-serif;
+    --lato: 'Lato', sans-serif;
+
+    --Light:#F9F9F9;
+    --blue:#3C91E6;
+    --light-blue:#CFE8FF;
+    --grey:#eee;
+    --dark-grey:#AAAAAA;
+    --dark:#342E37;
+    --red:#D8504A;
+    --yellow:#FFCE26;
+    --light-yellow:#FFF2C6;
+    --orange:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#slider.slide-menu li.active::after{
+    content: '';
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    top: -40px;
+    right: 0;
+    box-shadow: 20px 20px 0 var(--grey);
+    z-index: -1;
+}
+#slider.slide-menu.top li.active a{
+    color:var
+}
+
+      
+
+
+
+
+
+}
